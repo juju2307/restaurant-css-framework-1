@@ -65,8 +65,26 @@
   font-family: "Handlee", cursive;
 }
 
+.container h5 {
+  font-family: "Handlee", cursive;
+}
+
+li {
+  font-family: "Roboto", sans serif;
+}
+
 ul {
   list-style-type: none;
+  font-family: "Roboto", sans serif;
+}
+
+p {
+  font-family: "Roboto", sans serif;
+}
+
+.btn {
+  background-color: #cb6c56;
+  color: #f2f5e2;
 }
 
 footer {

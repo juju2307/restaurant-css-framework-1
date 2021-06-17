@@ -43,14 +43,29 @@
 }
 .container{
 h2 {
-    font-family: $hfont
+    font-family: $hfont;
 }
 h3{
-    font-family: $hfont
+    font-family: $hfont;
 }
+
+h5 {
+  font-family: $hfont;
+}
+}
+li {
+  font-family: $tfont;
 }
 ul {
     list-style-type: none;
+    font-family: $tfont;
+}
+p {
+  font-family: $tfont;
+}
+.btn{
+  background-color: $tcolor;
+  color: $bancolor;
 }
 footer {
   font-family: $tfont;
