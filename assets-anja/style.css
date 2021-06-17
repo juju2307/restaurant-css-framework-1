@@ -51,6 +51,21 @@ header .jumbotron .display-4 {
   font-size: 600%;
 }
 
+/*MAIN*/
+main {
+  justify-content: center;
+}
+main h2 {
+  padding-top: 2%;
+  font-family: "Handlee", cursive;
+  color: #cb6c56;
+}
+main h4 {
+  font-family: "Roboto", sans serif;
+  font-weight: 100;
+  color: #cb6c56;
+}
+
 /*FOOTER*/
 footer {
   font-family: "Roboto", sans serif;

@@ -54,12 +54,28 @@ header {
   }
 }
 
+/*MAIN*/
+main {
+  justify-content: center;
+  h2 {
+    padding-top: 2%;
+    font-family: $hfont;
+    color: $tcolor;
+  }
+  h4 {
+    font-family: $tfont;
+    font-weight: 100;
+    color: $tcolor;
+  }
+}
+
 /*FOOTER*/
 
 footer {
   font-family: $tfont;
   color: $bancolor;
   font-size: small;
+  background-repeat: no-repeat;
   h4 {
     font-family: $hfont;
     padding-bottom: 3%;
