@@ -1,0 +1,96 @@
+@import "./_variables.scss";
+.page-header {
+    color: $bancolor;
+    a {
+      color: $bancolor;
+      font-family: $tfont;
+      font-weight: weight("bold");
+      &:hover {
+        color: $tcolor;
+      }
+    }
+    .bg-image {
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding-bottom: 8%;
+    }
+    .navbar-toggler-icon {
+      background-image: url("https://mdbcdn.b-cdn.net/img/svg/hamburger2.svg?color=fff");
+    }
+}
+.jumbotron {
+    text-align: center;
+    .lead {
+      font-weight: weight("regular");
+      font-style: italic;
+    }
+
+    button {
+      background-color: $bancolor;
+      color: $tcolor;
+      border: none;
+      &:hover {
+        background-color: $tcolor;
+        box-shadow: $bancolor;
+      }
+    }
+    .display-4 {
+      padding: 10%;
+      font-family: $hfont;
+      text-align: center;
+      font-size: 600%;
+    }
+}
+.container{
+h2 {
+    font-family: $hfont;
+}
+h3{
+    font-family: $hfont;
+}
+
+h5 {
+  font-family: $hfont;
+}
+}
+li {
+  font-family: $tfont;
+}
+ul {
+    list-style-type: none;
+    font-family: $tfont;
+}
+p {
+  font-family: $tfont;
+}
+.boutton {
+  background-color: $tcolor;
+  color: $bancolor;
+  
+}
+footer {
+  font-family: $tfont;
+  color: $bancolor;
+  font-size: small;
+
+  .bg-image {
+    padding: 2%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  h4 {
+    font-family: $hfont;
+    padding-bottom: 3%;
+  }
+  .rowf {
+    padding-top: 3%;
+  }
+  a {
+    color: $bancolor;
+    font-family: $tfont;
+    &:hover {
+      color: $tcolor;
+    }
+  }
+}
