@@ -36,7 +36,7 @@ As for the icons, they're royalty-free too and have been found [Vexels](https://
 
 ## Team
 
-_Anaïs Dehandschutter_ : welcome page and readme. [GitHub](https://github.com/Anja-dhnd)
-_Julie Metz_ : restaurant and menu pages. [GitHub](https://github.com/juju2307)
-_Marianne Auquier_ : picture page. [GitHub](https://github.com/marianne-79)
-_Emerson Vandeputte_: contact page. [GitHub](https://github.com/hallomoto-beta)
+- _Anaïs Dehandschutter_ : welcome page and readme. [GitHub](https://github.com/Anja-dhnd)
+- _Julie Metz_ : restaurant and menu pages. [GitHub](https://github.com/juju2307)
+- _Marianne Auquier_ : picture page. [GitHub](https://github.com/marianne-79)
+- _Emerson Vandeputte_: contact page. [GitHub](https://github.com/hallomoto-beta)
