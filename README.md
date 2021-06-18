@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Restaurant-CSS-Framework
 
 This repository is dedicated to our project of showcasing a restaurant realized during our training at BeCode.
@@ -38,3 +39,10 @@ _Anaïs Dehandschutter_ : welcome page and readme. [GitHub](https://github.com/A
 _Julie Metz_ : restaurant and menu pages. [GitHub](https://github.com/juju2307)
 _Marianne Auquier_ : picture page. [GitHub](https://github.com/marianne-79)
 _Emerson Vandeputte_: contact page. [GitHub](https://github.com/hallomoto-beta)
+||||||| 980ae67
+# restaurant-css-framework
+=======
+# restaurant-css-framework
+
+https://anja-dhnd.github.io/restaurant-css-framework/index.html
+>>>>>>> 93648e90bc874754f2f56d1b770d62cedfbd8985
