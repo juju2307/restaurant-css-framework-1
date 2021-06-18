@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+
 # Restaurant-CSS-Framework
 
 This repository is dedicated to our project of showcasing a restaurant realized during our training at BeCode.
