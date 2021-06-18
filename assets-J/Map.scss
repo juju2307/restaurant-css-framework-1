@@ -41,56 +41,36 @@
       font-size: 600%;
     }
 }
-.container{
-h2 {
-    font-family: $hfont;
-}
-h3{
-    font-family: $hfont;
-}
-
-h5 {
-  font-family: $hfont;
-}
-}
-li {
-  font-family: $tfont;
-}
-ul {
-    list-style-type: none;
-    font-family: $tfont;
-}
-p {
-  font-family: $tfont;
-}
-.boutton {
-  background-color: $tcolor;
-  color: $bancolor;
-  
-}
 footer {
-  font-family: $tfont;
-  color: $bancolor;
-  font-size: small;
-
-  .bg-image {
-    padding: 2%;
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-  h4 {
-    font-family: $hfont;
-    padding-bottom: 3%;
-  }
-  .rowf {
-    padding-top: 3%;
-  }
-  a {
-    color: $bancolor;
     font-family: $tfont;
-    &:hover {
-      color: $tcolor;
+    color: $bancolor;
+    font-size: small;
+  
+    .bg-image {
+      padding: 2%;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+  
+    h4 {
+      font-family: $hfont;
+      padding-bottom: 3%;
+    }
+    .rowf {
+      padding-top: 3%;
+    }
+    a {
+      color: $bancolor;
+      font-family: $tfont;
+      &:hover {
+        color: $tcolor;
+      }
     }
   }
-}
+  .presentation {
+      font-family: $hfont;
+  }
+  .Nous {
+      font-family: $tfont;
+  }
+  
