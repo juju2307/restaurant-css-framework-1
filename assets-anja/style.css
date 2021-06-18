@@ -68,6 +68,9 @@ main h4 {
 main p {
   padding: 4%;
 }
+main #middle {
+  padding: 2%;
+}
 
 /*FOOTER*/
 footer {
