@@ -67,6 +67,9 @@ main {
     font-weight: 100;
     color: $tcolor;
   }
+  p {
+    padding: 4%;
+  }
 }
 
 /*FOOTER*/
@@ -78,7 +81,7 @@ footer {
 
   .bg-image {
     padding: 2%;
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
   }
 

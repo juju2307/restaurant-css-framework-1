@@ -65,6 +65,9 @@ main h4 {
   font-weight: 100;
   color: #cb6c56;
 }
+main p {
+  padding: 4%;
+}
 
 /*FOOTER*/
 footer {
@@ -74,7 +77,7 @@ footer {
 }
 footer .bg-image {
   padding: 2%;
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 footer h4 {
