@@ -75,7 +75,13 @@ footer {
   font-family: $tfont;
   color: $bancolor;
   font-size: small;
-  background-repeat: no-repeat;
+
+  .bg-image {
+    padding: 2%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
   h4 {
     font-family: $hfont;
     padding-bottom: 3%;

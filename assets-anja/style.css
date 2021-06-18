@@ -72,6 +72,11 @@ footer {
   color: #f2f5e2;
   font-size: small;
 }
+footer .bg-image {
+  padding: 2%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
 footer h4 {
   font-family: "Handlee", cursive;
   padding-bottom: 3%;
